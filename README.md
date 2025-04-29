@@ -1,11 +1,12 @@
 
 # Projects URLs
 
-- Accordion : click [here](https://dom-js-apps.vercel.app/),
+- Accordion : click [here](https://js-projects-woad.vercel.app/),
 
-- Modal : click [here](https://dom-js-apps-am9h.vercel.app/),
+- Modal : click [here](https://js-projects-modal.vercel.app/),
 
-- Quote Generator : click [here](https://dom-js-apps-3pzu.vercel.app/),
-- Stop-Watch : click [here](https://dom-js-apps-9lfq.vercel.app/),
+- Quote Generator : click [here](https://js-projects-quote-generator.vercel.app/),
 
-- To-Do List : click [here](https://dom-js-apps-o6ji.vercel.app/),
+- Stop-Watch : click [here](https://js-projects-counter.vercel.app/),
+
+- To-Do List : click [here](https://js-projects-todo.vercel.app/),
